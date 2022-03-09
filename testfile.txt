@@ -1,4 +1,0 @@
-This is a sample file
-Adding second line
-Adding 3rd line
-SSH Key
